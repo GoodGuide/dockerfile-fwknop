@@ -1,0 +1,7 @@
+[template]
+src = "fwknop-access.conf.tmpl"
+dest = "/etc/fwknop/access.conf"
+keys = [
+  "/fwknop/gpgDecryptId",
+  "/fwknop/users",
+]

@@ -1,0 +1,6 @@
+[template]
+src = "fwknop-fwknopd.conf.tmpl"
+dest = "/etc/fwknop/fwknopd.conf"
+keys = [
+  "/fwknop"
+]
